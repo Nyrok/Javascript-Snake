@@ -1,5 +1,4 @@
 # JavascriptSnake
-## index.html public code [here](https://gist.githubusercontent.com/straker/ff00b4b49669ad3dec890306d348adc4/raw/cd55a275d37e9e6ea243376f423a7bffa6b9608e/snake.html)
 ### A Snake app in Javascript & Electron.
 
 # Informations
