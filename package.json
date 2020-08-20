@@ -1,0 +1,15 @@
+{
+  "name": "snakejs",
+  "version": "1.0.0",
+  "description": "Snake app in Javascript and Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nyrok",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+}
